@@ -43,7 +43,7 @@ namespace Part_5_Console_Decisions
 
                 else if (age <= 18)
                 {
-                    Console.WriteLine("You are a Teenager.");
+                    Console.WriteLine("You are a Teenager. ");
                 }
 
             }
